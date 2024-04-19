@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\bin\Debug\netcoreapp2.1\exRETANGULO.deps.json
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\bin\Debug\netcoreapp2.1\exRETANGULO.runtimeconfig.json
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\bin\Debug\netcoreapp2.1\exRETANGULO.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\bin\Debug\netcoreapp2.1\exRETANGULO.dll
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\bin\Debug\netcoreapp2.1\exRETANGULO.pdb
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.dll
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.pdb
+C:\Users\usuario\Desktop\Estudos TI\ws-visualstudio\exRETANGULO\exRETANGULO\obj\Debug\netcoreapp2.1\exRETANGULO.genruntimeconfig.cache
