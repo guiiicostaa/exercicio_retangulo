@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exRETANGULO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f24caf202e2f4bce88b68d556604e39c84988c")]
 [assembly: System.Reflection.AssemblyProductAttribute("exRETANGULO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exRETANGULO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
